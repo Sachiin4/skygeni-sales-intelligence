@@ -1,4 +1,4 @@
-# SkyGeni – Sales Intelligence Challenge
+#Sales Intelligence Decision Engine for identifying win drivers, pipeline risk, and revenue insights.
 
 ## Objective
 
